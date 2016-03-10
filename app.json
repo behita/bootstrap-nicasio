@@ -1,0 +1,13 @@
+{
+  "name": "bootstrap-nicasio",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
